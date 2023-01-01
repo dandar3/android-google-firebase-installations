@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-google-firebase-installations/tags/1.0.0,google-firebase-installations,2095127bfd89001d164199dcedbe8c77;https://github.com/dandar3/android-google-firebase-installations;https://github.com/dandar3/android-google-firebase-installations;branches;tags;trunk;true;84ae6465-6c8c-bd9f-0445-ce57b7db7bff;https://github.com/dandar3/android-google-firebase-installations;;false;;;0"/>
+</provider>
+</psf>
