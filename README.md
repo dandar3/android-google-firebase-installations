@@ -1,11 +1,11 @@
 ## google-firebase-installations
 
 Eclipse library project based on:<br/>
-https://maven.google.com/com/google/firebase/firebase-installations/17.0.2/firebase-installations-17.0.2.aar
+https://maven.google.com/com/google/firebase/firebase-installations/17.0.3/firebase-installations-17.0.3.aar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-google-firebase-installations/17.0.2/.projectset
+  https://raw.githubusercontent.com/dandar3/android-google-firebase-installations/17.0.3/.projectset
 
 **Requires:**
 - `Android 10 (API 29) SDK Platform`
