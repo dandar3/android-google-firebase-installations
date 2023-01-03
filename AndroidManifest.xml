@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.firebase.installations"
-    android:versionName="16.2.2" >
+    android:versionName="16.3.0" >
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="28" />
+        android:targetSdkVersion="29" />
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
